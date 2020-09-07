@@ -5,15 +5,15 @@
 - ⛅ あなたは何が起こっても、あきらめるべきではありません。 私は、あなたが降りてくるのではなく昇るための道具としてあなたに何が起こってもそれを使うべきです.
 - ⚡Hobby: Cycling, Cooking, and Like Japanese Culture
 
-<br />
+
 ### Connect with me: 
 
 [<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg">][linkedin]
 [<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg">][twitter]
 [<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg">][facebook]
 [<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg">][instagram]
+<br/>
 
-<br />
 ### Languages and Tools:
 
 [<img align="left" alt="html5" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png">][html5]
