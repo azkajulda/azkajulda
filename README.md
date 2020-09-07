@@ -16,14 +16,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="html5" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png">][html5]
-[<img align="left" alt="css3" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png">][css3]
-[<img align="left" alt="js" width="22px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">][js]
-[<img align="left" alt="ts" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">][ts]
-[<img align="left" alt="ts" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png">][php]
-[<img align="left" alt="ts" width="22px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">][laravel]
-[<img align="left" alt="ts" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][reactjs]
-[<img align="left" alt="ts" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
+[<img align="left" alt="html5" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png">][html5]
+[<img align="left" alt="css3" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png">][css3]
+[<img align="left" alt="js" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">][js]
+[<img align="left" alt="ts" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">][ts]
+[<img align="left" alt="ts" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png">][php]
+[<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">][laravel]
+[<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][reactjs]
+[<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
 
 
 </br>
