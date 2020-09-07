@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="Azka Julda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azkajulda&show_icon=true&hide_border=true&count_private=true" />
+<img align="center" alt="Azka Julda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azkajulda&show_icon=true&hide_border=true&count_private=true" />
 
 
 [websiteWork]: https://www.wlb.co.id/
