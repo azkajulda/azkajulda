@@ -47,6 +47,6 @@
 [reactjs]: https://github.com/topics/reactjs
 [angular]: https://github.com/topics/angular
 [github]: https://github.com/topics/github
-[vcs]: https://github.com/topics/visualstudiocode
+[vsc]: https://github.com/topics/visualstudiocode
 [postman]: https://github.com/topics/postman
 
