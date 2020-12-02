@@ -3,7 +3,7 @@
 ## I'm Frontend Web Developer
 - 🏢 Frontend Web Developer at [WorklifeAndBeyond][websiteWork]
 - ⛅ あなたは何が起こっても、あきらめるべきではありません。 私は、あなたが降りてくるのではなく昇るための道具としてあなたに何が起こってもそれを使うべきです.
-- ⚡Hobby: Cycling, Cooking, Playing Guitar,and Like Japanese Culture
+- ⚡Hobby: Cycling, Cooking, Playing Guitar,and Like Japanese Culture.
 
 
 ### Connect with me: 
