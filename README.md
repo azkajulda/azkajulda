@@ -25,7 +25,7 @@
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][reactjs]
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][github]
-[<img align="left" alt="ts" width="26px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png">][apollo]
+[<img align="left" alt="ts" width="26px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4">][apollo]
 [<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">][vsc]
 [<img align="left" alt="ts" width="26px" src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png">][postman]
 
