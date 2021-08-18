@@ -24,6 +24,7 @@
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">][laravel]
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][reactjs]
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
+[<img align="left" alt="ts" width="26px" src="https://www.freeiconspng.com/uploads/arduino-icon-28.png">][arduino]
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">][github]
 [<img align="left" alt="ts" width="26px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4">][apollo]
 [<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">][vsc]
@@ -52,6 +53,7 @@
 [laravel]: https://laravel.com/
 [reactjs]: https://reactjs.org/
 [angular]: https://angular.io/
+[arduino]: https://www.arduino.cc/
 [github]: https://github.com/
 [vsc]: https://code.visualstudio.com/
 [postman]: https://www.postman.com/
