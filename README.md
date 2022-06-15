@@ -8,10 +8,10 @@
 
 ### Connect with me: 
 
-[<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg">][twitter]
-[<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg">][facebook]
-[<img align="left" alt="azkajulda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg">][instagram]
+[<img align="left" alt="azkajulda" width="22px" src="https://www.svgrepo.com/show/183624/linkedin.svg">][linkedin]
+[<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">][twitter]
+[<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg">][facebook]
+[<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg">][instagram]
 <br/>
 
 ### Languages and Tools:
