@@ -1,4 +1,4 @@
-### Hi there, I'm Azka Julda - アズカシマダと申します。
+### Hi there, I'm Azka Julda - アズカシマダと申します。 ✌
 
 ## I'm Frontend Web Developer
 - 🏢 Frontend Web Developer at [WorklifeAndBeyond][websiteWork]
