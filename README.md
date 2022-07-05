@@ -25,7 +25,7 @@
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][reactjs]
 [<img align="left" alt="ts" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
 [<img align="left" alt="ts" width="26px" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png">][arduino]
-[<img align="left" alt="ts" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png">][github]
+[<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">][github]
 [<img align="left" alt="ts" width="26px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4">][apollo]
 [<img align="left" alt="ts" width="26px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">][tailwind]
 [<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">][bootstrap]
