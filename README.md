@@ -9,7 +9,7 @@
 ### Connect with me: 
 
 [<img align="left" alt="azkajulda" width="22px" src="https://www.svgrepo.com/show/183624/linkedin.svg">][linkedin]
-[<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg">][twitter]
+[<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg">][twitter]
 [<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg">][facebook]
 [<img align="left" alt="azkajulda" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg">][instagram]
 <br/>
