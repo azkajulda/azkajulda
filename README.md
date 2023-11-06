@@ -1,7 +1,7 @@
 ### Hi there, I'm Azka Julda - アズカシマダと申します。 ✌
 
 ## I'm Frontend Web Developer
-- 🏢 Frontend Web Developer at [WorklifeAndBeyond][websiteWork]
+- 🏢 Web Developer at [Neuronworks Indonesia][websiteWork]
 - ⛅ あなたは何が起こっても、あきらめるべきではありません。 私は、あなたが降りてくるのではなく昇るための道具としてあなたに何が起こってもそれを使うべきです.
 - ⚡Hobby: Cycling, Cooking, Playing Guitar, and Like Japanese Culture.
 
@@ -43,7 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkajulda&layout=compact&langs_count=8&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/azkajulda)
 
 
-[websiteWork]: https://www.wlb.co.id/
+[websiteWork]: https://www.neuronworks.co.id/
 [linkedin]: https://www.linkedin.com/in/mohamad-azka-julda-suparman-55b08917a/
 [twitter]: https://twitter.com/AzkaJulda
 [facebook]: https://www.facebook.com/azka.julda.7
