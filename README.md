@@ -1,7 +1,6 @@
 ### Hi there, I'm Azka Julda - アズカシマダと申します。 ✌
 
 ## I'm Frontend Web Developer
-- 🏢 Web Developer at [Neuronworks Indonesia][websiteWork]
 - ⛅ あなたは何が起こっても、あきらめるべきではありません。 私は、あなたが降りてくるのではなく昇るための道具としてあなたに何が起こってもそれを使うべきです.
 - ⚡Hobby: Cycling, Cooking, Playing Guitar, and Like Japanese Culture.
 
