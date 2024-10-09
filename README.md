@@ -38,7 +38,7 @@
 
 ---
 
-[<img align="left" alt="Azka Julda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azkajulda&show_icon=true&hide_border=true&count_private=true&theme=tokyonight" width="450" />](https://github.com/azkajulda)
+[<img align="left" alt="Azka Julda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=azkajulda&show_icon=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" width="450" />](https://github.com/azkajulda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkajulda&layout=compact&langs_count=8&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/azkajulda)
 
 
