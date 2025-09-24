@@ -26,7 +26,7 @@
 [<img align="left" alt="ts" width="26px" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png">][arduino]
 [<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">][git]
 [<img align="left" alt="ts" width="26px" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4">][apollo]
-[<img align="left" alt="ts" width="26px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">][tailwind]
+[<img align="left" alt="ts" width="26px" src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png">][tailwind]
 [<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png">][bootstrap]
 [<img align="left" alt="ts" width="26px" src="https://v4.mui.com/static/logo.png">][mui]
 [<img align="left" alt="ts" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">][vsc]
